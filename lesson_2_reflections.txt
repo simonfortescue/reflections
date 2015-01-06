@@ -1,2 +1,6 @@
 Question: What happens when you initialize a repository? Why do you need to do it?
 Answer: GIT starts to track files. creates .git 
+
+Question: How can you use the staging area to make sure you have one commit per logical change?
+Answer: to move files into it as they are completed and only when all changes made to 'commit'
+
