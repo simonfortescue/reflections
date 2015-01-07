@@ -11,3 +11,6 @@ Question: What is the result of merging two branches together? Why do we represe
 it in the diagram the way we do?
 Answer: combines both sets of code into a single solution. two branches become one and future banches are from
 the new trunk
+
+Question: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer: GIT provides tools to roll back to previous commits, view changes/conflicts. manual
