@@ -4,3 +4,7 @@ Answer: in the event i am working and updating code from multiple computers, wan
 Question: Why might you want to always pull changes manually rather than having Git automatically 
 stay up-to-date with your remote repository?
 Answer: because other users might be updating code that i am unaware of or that affects my code 
+
+Question: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork used to copy from one person repository on github to my own, clone is used to copy a repository locally, branches 
+is used to create another branch within a repository locally,
