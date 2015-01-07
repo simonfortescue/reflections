@@ -16,3 +16,8 @@ when coding and also so i can work offline with the latest version if required.
 Question: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Answer: without git or git hub either a team would need to work on files and share in folders or via email and
 compare changes manually and update code.
+
+Question: When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+Answer: When I am trying something new and not sure i want to keep it. others and i can keep working on the master (main) branch 
+and merge later if we choose
