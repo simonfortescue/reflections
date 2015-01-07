@@ -13,3 +13,6 @@ Question: What is the benefit of having a copy of the last known state of the re
 Answer: to ensure i am always working from the latest version, or at least aware of what is in it and accounting for it
 when coding and also so i can work offline with the latest version if required.
 
+Question: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer: without git or git hub either a team would need to work on files and share in folders or via email and
+compare changes manually and update code.
